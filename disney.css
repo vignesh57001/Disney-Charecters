@@ -1,0 +1,31 @@
+body{
+    background-color:blueviolet;
+}
+.box{
+    text-align: center;
+    background-color:cadetblue;
+    margin: 60px 60px;
+}
+h5{
+    font-size: 20px;
+    margin: 10px;
+       color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: oblique;
+    font-weight: 900;
+   
+    border: 30px 40px;
+}
+.card{
+    height: 500px;
+    width: 250px;
+    overflow-y:scroll;
+    background-color: black;
+  
+}
+h1{
+    margin-bottom: 20px;
+   font-size: 80px;
+    font-family:'Times New Roman', Times, serif;
+    font-style: oblique;
+}
